@@ -133,9 +133,3 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For questions or feedback, please contact:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
